@@ -7,8 +7,6 @@ for i in a:
         print(i)
     else:
         print()
-
+print("Total number of letters are", end=" ")
 print(c)
-
-
 
