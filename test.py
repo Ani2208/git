@@ -1,4 +1,7 @@
 a = 'Python API Automation'
 
 for i in a:
-    print(i)
+    if i!=" ":
+        print(i)
+    else:
+        print()
